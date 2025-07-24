@@ -1,0 +1,23 @@
+{
+    "servers": {
+        "context7": {
+            "type": "http",
+            "url": "https://mcp.context7.com/mcp"
+        },
+        "microsoft.docs.mcp": {
+            "type": "http",
+            "url": "https://learn.microsoft.com/api/mcp"
+        },
+        "git": {
+            "command": "docker",
+            "args": [
+                "run",
+                "-i",
+                "--rm",
+                "-v",
+                "/local-directory:/local-directory",
+                "mcp/git"
+            ]
+        }
+    }
+}
