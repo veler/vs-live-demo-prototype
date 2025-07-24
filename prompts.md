@@ -36,5 +36,6 @@ Your first step will be to write a detailed spec that an AI will then use to bui
 
 -------------------------
 Cool, now please go-ahead and apply the specification.
-- Again, leverage online documentation for best practice.
-- For every milestone in your work, create some unit tests. Build, and run them. Once they all pass, then git commit the changes, and continue to the next milestone.
+- Create a set of task/issues on GitHub to track your work.
+- Then, start implementing. Again, leverage online documentation for best practice.
+- For every milestone / task / GH issue you complete, create some unit tests. Build, and run them successfully to make sure the project works as expected. Once they all pass, then git commit the changes, and continue to the next milestone.
