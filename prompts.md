@@ -32,9 +32,9 @@ For each tool:
 
 Please find some screenshot from an existing app for inspiration on the UI.
 
-Your first step will be to write a detailed spec that an AI will then use to build the project, and save it into a file.
+Your first step will be to write a detailed spec that an AI will then use to build the project, and save it into a file. Split the work into small milestones.
 
 -------------------------
 Cool, now please go-ahead and apply the specification.
 - Again, leverage online documentation for best practice.
-- For every milestone in your work, ensure that the solution build. If not, fix the issue. Then git commit the changes before you proceed to the next milestone.
+- For every milestone in your work, create some unit tests. Build, and run them. Once they all pass, then git commit the changes, and continue to the next milestone.
